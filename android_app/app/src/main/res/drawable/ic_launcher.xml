@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark background circle -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,0 C83.82,0 108,24.18 108,54 C108,83.82 83.82,108 54,108 C24.18,108 0,83.82 0,54 C0,24.18 24.18,0 54,0 Z"/>
+    <!-- Desktop Cursor Arrow icon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,24 L38,72 L52,60 L64,86 L71,83 L59,58 L74,58 Z"/>
+    <!-- White outline for arrow -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M38,24 L38,72 L52,60 L64,86 L71,83 L59,58 L74,58 Z"/>
+</vector>

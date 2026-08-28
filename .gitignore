@@ -1,0 +1,22 @@
+
+# Project Publisher security rules
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pfx
+*.p12
+*.pem
+*.key
+*.jks
+*.keystore
+credentials.json
+service-account.json
+secrets.json
+node_modules/
+.venv/
+venv/
+bin/
+obj/
+artifacts/
+__pycache__/

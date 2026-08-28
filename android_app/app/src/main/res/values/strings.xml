@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WireShare Client</string>
+    <string name="accessibility_description">WireShare Accessibility Service draws a desktop mouse cursor overlay and dispatches network keyboard &amp; mouse events from your Windows PC.</string>
+</resources>

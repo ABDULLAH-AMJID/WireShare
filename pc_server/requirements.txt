@@ -1,0 +1,9 @@
+# WireShare PC Server - Dependencies
+PyQt6>=6.5.0
+pynput>=1.7.6
+websockets>=12.0
+pywin32>=306; sys_platform == "win32"
+zeroconf>=0.131.0
+netifaces>=0.11.0
+mss>=9.0.1
+Pillow>=10.0.0
