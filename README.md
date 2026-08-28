@@ -37,6 +37,28 @@
 
 ---
 
+## 🖥️📱 Application Screenshots
+
+### Windows PC Server
+
+<p align="center">
+  <img src="./assets/pc-server-dashboard.png" alt="WireShare Windows PC Server Dashboard" width="840">
+</p>
+
+### Android Client — Phone → PC Studio
+
+<p align="center">
+  <img src="./assets/android-pc-studio.png" alt="WireShare Android PC Studio" width="360">
+</p>
+
+### Android Client — PC Connection & Pairing
+
+<p align="center">
+  <img src="./assets/android-pairing.png" alt="WireShare Android PC Connection and Pairing" width="360">
+</p>
+
+---
+
 ## 🚀 Getting Started: Windows PC Server (`WireShare-PC`)
 
 ### 1. Requirements & Installation
